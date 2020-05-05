@@ -4,4 +4,4 @@
 * Create an dynamic tests without build APK.
 
 - **TEST SCREEN**
-![]()
+![](/result.jpg)

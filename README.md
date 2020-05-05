@@ -3,4 +3,5 @@
 * Auto result generation.
 * Create an dynamic tests without build APK.
 
-- TEST SCREEN
+- **TEST SCREEN**
+![GitHub Logo](/images/logo.png)

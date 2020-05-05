@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DYPIET Exam</string>
+    <string name="button">Button</string>
+    <string name="two" />
+    <string name="three">three</string>
+    <string name="one">one</string>
+    <string name="textview">TextView</string>
+    <string name="ans1">ans1</string>
+    <string name="ans2">ans2</string>
+    <string name="ans3">ans3</string>
+    <string name="ans4">ans4</string>
+    <string name="submit_answer">Submit Answer</string>
+
+</resources>

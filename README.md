@@ -1,3 +1,6 @@
 # 📊 OnlineTest-Application
 * Online test apllication using firebase database.
-**Auto result generated.
+* Auto result generation.
+* Create an dynamic tests without build APK.
+
+- TEST SCREEN
